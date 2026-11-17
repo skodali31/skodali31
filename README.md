@@ -2,8 +2,8 @@
 
 **Welcome to my profile!**
 
-- I study Computer Engineering at the University of Michigan College of Engineering 🟦🟨.
-- I'm currently working on [Patternly](https://github.com/contract-s/patternly), an explain-first tutor for algorithm patterns (FastAPI, Postgres + pgvector, React + TypeScript, Claude API) 🧩🧠.
+- I study Computer Science at the University of Michigan College of Engineering 🟦🟨.
+- I'm recently just built [Patternly](https://github.com/contract-s/patternly), an explain-first tutor for algorithm patterns (FastAPI, Postgres + pgvector, React + TypeScript, Claude API) 🧩🧠.
 - Reach me at sakodali@umich.edu 📫.
 
 Feel free to look around! 👀 ⬇️
